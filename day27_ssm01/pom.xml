@@ -11,7 +11,7 @@
     <packaging>war</packaging>
 
     <properties>
-        <spring.version>4.2.4.RELEASE</spring.version>
+        <spring.version>5.2.20.RELEASE</spring.version>
         <mybatis.version>3.2.8</mybatis.version>
         <junit.version>4.12</junit.version>
         <lombok.version>1.16.10</lombok.version>
